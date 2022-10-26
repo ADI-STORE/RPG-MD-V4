@@ -36,23 +36,23 @@ global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899'
-global.povo = '081352848936'
-global.pgopay = '081352848936'
-global.ppulsa = '081251549899'
-global.ppulsa2 = '081348106274'
-global.psaweria = 'https://saweria.co/raraharsita2'
+global.pdana = '-'
+global.povo = '-'
+global.pgopay = '087841959988'
+global.ppulsa = '087841959988'
+global.ppulsa2 = '082398074198'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281352848936'
-global.nomorown = '6281348106274'
+global.nomorbot = '16072694442'
+global.nomorown = '6287841959988'
 global.namebot = 'DaniBotzラ'
 global.nameown = 'ᴹᴿ᭄ DaniXd ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281348106274', 'ᴹᴿ᭄ DaniXd? ×፝֟͜×', 'true']
+  ['6287841959988', 'ᴹᴿ᭄ DaniXd? ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
