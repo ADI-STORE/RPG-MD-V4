@@ -123,7 +123,7 @@ global.intro = 'https://telegra.ph/file/9c62b0327599489d4090e.jpg'
 global.nameowner = 'ARA-CHAN ×፝֟͜×'
 global.umurowner = '15'
 global.asalowner = 'Kalimantan, Banjar'
-global.nomorowner = 'wa.me/6287841959988
+global.nomorowner = 'wa.me/6287841959988'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
