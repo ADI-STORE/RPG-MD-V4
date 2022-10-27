@@ -27,11 +27,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/RARA-CHANS'
+global.sig = 'https://instagram.com/danibotz_official'
 global.syt = 'https://youtu.be/pwLZpdfO8AU'
-global.sgh = 'https://github.com/adiofc'
-global.sgc = 'https://chat.whatsapp.com/D7dz36ZSYazG5cGnpkdHwt'
-global.swa = 'wa.me/6287841959988'
+global.sgh = 'https://github.com/ADI-STORE'
+global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
+global.swa = 'wa.me/6287841959988
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
@@ -41,18 +41,19 @@ global.povo = '-'
 global.pgopay = '087841959988'
 global.ppulsa = '087841959988'
 global.ppulsa2 = '082398074198'
-global.psaweria = '-'
+global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '17014304503'
 global.nomorown = '6287841959988'
 global.namebot = 'RaxcelBotzラ'
-global.nameown = 'Ara-Chan ×፝֟͜×'
+global.nameown = 'ARA-CHAN ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287841959988', 'Ara-Chan ×፝֟͜×', 'true']
+  ['6287841959988', 'OWNER', 'true'], 
+  ['17014304503', 'RAXCEL', 'true'], 
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -96,14 +97,14 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'RaxcelBotzラ | By Ara-Chan ×፝֟͜×' //Main Watermark
-global.wm2 = 'Ara-Chan ×፝֟͜×'
-global.wm3 = 'RaxcelBotzラ | By Ara-Chan ×፝֟͜×'
+global.wm = 'RaxcelBotzラ | By ARA-CHAN' //Main Watermark
+global.wm2 = 'ARA-CHAN ×፝֟͜×'
+global.wm3 = 'RaxcelBotzラ | By AUREL-CHAN ×፝֟͜×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `RaxcelBotzラ | ʙʏ ${global.nameown}`
-global.author = 'Ara-Chan ×፝֟͜×' 
-global.packname = 'Ara-Chan ×፝֟͜×'
+global.author = 'ARA-CHAN ×፝֟͜×' 
+global.packname = 'ARA-CHAN ×፝֟͜×'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
@@ -116,13 +117,13 @@ global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya RaxcelBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ AdiGanz ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Hallo, Kenalin saya RaxcelBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ARA-CHAN ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/9c62b0327599489d4090e.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Ara-Chan ×፝֟͜×'
+global.nameowner = 'ARA-CHAN ×፝֟͜×'
 global.umurowner = '15'
-global.asalowner = 'Indonesia, Indonesia'
-global.nomorowner = 'wa.me/6287841959988'
+global.asalowner = 'Kalimantan, Banjar'
+global.nomorowner = 'wa.me/6287841959988
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
@@ -372,7 +373,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'ᴍᴀᴅᴇ ʙʏ'
-global.stickauth = `Ara-Chan'
+global.stickauth = `BOT-RPG`
 
 global.multiplier = 38 // The higher, The harder levelup
 
