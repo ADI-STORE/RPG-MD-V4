@@ -44,7 +44,7 @@ global.ppulsa2 = '082398074198'
 global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '17014304503'
+global.nomorbot = '6282398074198'
 global.nomorown = '6287841959988'
 global.namebot = 'RaxcelBotzラ'
 global.nameown = 'ARA-CHAN ×፝֟͜×'
@@ -53,7 +53,7 @@ global.nameown = 'ARA-CHAN ×፝֟͜×'
 /*============== STAFF ==============*/
 global.owner = [
   ['6287841959988', 'OWNER', 'true'], 
-  ['17014304503', 'RAXCEL', 'true'], 
+  ['6282398074198', 'RAXCEL', 'true'], 
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
