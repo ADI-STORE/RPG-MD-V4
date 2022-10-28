@@ -1,5 +1,5 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
-let url = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+let url = 'https://telegra.ph/file/52be58d65524e4d161dad.jpg'
 let text = `━━ꕥ〔 *𝚂𝙴𝚆𝙰 & 𝙿𝚁𝙴𝙼𝙸𝚄𝙼* 〕ꕥ━⬣
 
 ┏━ꕥ〔 𝙷𝙰𝚁𝙶𝙰 𝚂𝙴𝚆𝙰 〕
