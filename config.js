@@ -44,9 +44,9 @@ global.ppulsa2 = '082398074198'
 global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282398074198'
+global.nomorbot = '13642224780'
 global.nomorown = '6287841959988'
-global.namebot = 'RaxcelBotzラ'
+global.namebot = 'BOT-WHATSAPP'
 global.nameown = 'ARA-CHAN ×፝֟͜×'
 
 
@@ -54,6 +54,7 @@ global.nameown = 'ARA-CHAN ×፝֟͜×'
 global.owner = [
   ['6287841959988', 'OWNER', 'true'], 
   ['6282398074198', 'RAXCEL', 'true'], 
+  ['13642224780', 'anjay', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -97,12 +98,12 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'RaxcelBotzラ | By ARA-CHAN' //Main Watermark
+global.wm = 'BOT-WHATSAPP | By ARA-CHAN' //Main Watermark
 global.wm2 = 'ARA-CHAN ×፝֟͜×'
-global.wm3 = 'RaxcelBotzラ | By AUREL-CHAN ×፝֟͜×'
+global.wm3 = 'BOT-WHATSAPP | By AUREL-CHAN ×፝֟͜×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `RaxcelBotzラ | ʙʏ ${global.nameown}`
+global.titlebot = `BOT-WHATSAPP | ʙʏ ${global.nameown}`
 global.author = 'ARA-CHAN ×፝֟͜×' 
 global.packname = 'ARA-CHAN ×፝֟͜×'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
@@ -110,15 +111,15 @@ global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 /*============== LOGO ==============*/
 global.thumb = 'https://telegra.ph/file/1ee2290eedd3330a66df8.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/9c62b0327599489d4090e.jpg'
+global.imagebot = 'https://telegra.ph/file/bfd2cc1c065b2fce9adc7.jpg'
 global.giflogo = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
-global.giflogo2 = 'https://telegra.ph/file/9c62b0327599489d4090e.jpg'
+global.giflogo2 = 'https://telegra.ph/file/bfd2cc1c065b2fce9adc7.jpg'
 global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya RaxcelBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ARA-CHAN ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
-global.intro = 'https://telegra.ph/file/9c62b0327599489d4090e.jpg'
+global.intro = 'https://telegra.ph/file/bfd2cc1c065b2fce9adc7.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = 'ARA-CHAN ×፝֟͜×'
 global.umurowner = '15'
